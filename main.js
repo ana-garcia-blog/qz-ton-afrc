@@ -2,7 +2,7 @@ const vm = new Vue({
   el: "#app",
   data: {
     nomeDoProduto: "Potenciador Africano", // é exibido no perfil
-    linkDaPagina: "https://anerosafq.github.io/pv-ton-afrc/", //página de destino após o quiz
+    linkDaPagina: "africapoweroficial.com/alpha/max2/ps/", //página de destino após o quiz
     perguntas: [
       //sempre a primeira pergunta deve vir com o ativo: true e as demais false
       {
